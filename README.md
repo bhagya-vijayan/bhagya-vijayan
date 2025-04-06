@@ -3,7 +3,7 @@
 📍 **Payyanur, Kannur, Kerala, India**  
 📞 **+91 6238390514**  
 ✉️ **bhagyavijayan25@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhagya-vijayan-633707258/) | [Instagram](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhagya-vijayan-633707258/) | [Instagram](https://www.instagram.com/bhagya.vijayan?igsh=MXZiNHpybWp3MWV4Yw==)
 
 ---
 
