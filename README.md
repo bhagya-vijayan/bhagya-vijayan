@@ -9,17 +9,15 @@
 
 ### 💻 MERN Stack Developer | Full Stack Developer
 
-A passionate and results-driven MERN Stack Developer with a foundation in full-stack web development and a strong background in digital marketing. Adept at creating responsive web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. Combines technical skills with creative problem-solving, storytelling, and strategic thinking. Open to global opportunities, including relocation to **Dubai**.
-
+A passionate and results-driven MERN Stack Developer with a foundation in full-stack web development and a strong background in digital marketing. Adept at creating responsive web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. Combines technical skills with creative problem-solving, storytelling, and strategic thinking.
 ---
 
 ### 🎓 Education
 
-- **Bachelor of Computer Application (BCA)** – GASC *(2019 - 2022)*
-- **Python Django-Angular Full Stack Web Development** – Luminar Technolab, Kochi *(2023)*
+- **MERN Stack Training** – Vectorux Technolabs *(2024)*
 - **Digital Marketing Certification** – Btrac, Kannur *(2024, 3 Months)*
-- **Higher Secondary Education** – GHSS Mathil School *(2017 - 2019)*
-- **MERN Stack Training** – Vectorux Technolabs *(2024, 1 Month)*
+- **Python Django-Angular Full Stack Web Development** – Luminar Technolab, Kochi *(2023)*
+- **Bachelor of Computer Application (BCA)** – GASC *(2019 - 2022)*
 
 ---
 
