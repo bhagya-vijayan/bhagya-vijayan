@@ -15,7 +15,7 @@ A passionate and results-driven MERN Stack Developer with a foundation in full-s
 ### 🎓 Education
 
 - **MERN Stack Training** – Vectorux Technolabs *(2024)*
-- **Digital Marketing Certification** – Btrac, Kannur *(2024, 3 Months)*
+- ***Digital Marketing Certification** – Btrac, Kannur *(2024, 3 Months)*
 - **Python Django-Angular Full Stack Web Development** – Luminar Technolab, Kochi *(2023)*
 - **Bachelor of Computer Application (BCA)** – GASC *(2019 - 2022)*
 
@@ -39,15 +39,15 @@ Vectorux Technolabs | Kannur
 ### 🚀 Projects & Achievements
 
 **🔸 JobPortal App (MERN Stack)**  
-A full-stack job portal with user authentication, job listings, and admin dashboard.
+[View Project](https://github.com/bhagya-vijayan/jobportal-app)
 
 **🔸 Portfolio Website**  
-Designed and deployed personal portfolio using React.js & Tailwind CSS.
+[View Project](https://github.com/bhagya-vijayan/portfolio)
 
 **🔸 Task Manager Web App**  
-CRUD-based task manager with authentication using Node.js & MongoDB.
+[View Project](https://github.com/bhagya-vijayan/task-manager)
 
-> More projects available on request or on [GitHub](https://github.com/bhagya-vijayan)
+> More projects available on [GitHub](https://github.com/bhagya-vijayan)
 
 ---
 
@@ -59,6 +59,14 @@ CRUD-based task manager with authentication using Node.js & MongoDB.
 - **Tools**: Git, GitHub, VS Code, Postman  
 - **Deployment**: Netlify, Vercel, Render, MongoDB Atlas  
 - **Others**: Basic Python, Django, Angular, SEO, Content Creation
+
+---
+
+### 🎨 Customize
+
+- 🌗 Dark/Light Mode Toggle *(coming soon with portfolio site UI)*
+- 🎨 Personal color scheme and fonts added via Tailwind CSS on portfolio website
+- ⚙️ Icons and sections personalized with [React Icons](https://react-icons.github.io/react-icons/)
 
 ---
 
@@ -75,4 +83,8 @@ CRUD-based task manager with authentication using Node.js & MongoDB.
 - Open to relocation, including **Dubai** or other global opportunities.
 - Passionate about creative UI, performance optimization, and clean code.
 - Strong problem-solving, collaboration, and adaptability in fast-paced environments.
+
+---
+
+🧠 _This GitHub profile README is designed with future UI/UX improvements in mind including toggles, icons, and enhanced styling. Stay tuned for portfolio updates!_
 
