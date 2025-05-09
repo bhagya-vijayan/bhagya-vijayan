@@ -78,5 +78,5 @@ Vectorux Technolabs | Kannur
 
 ---
 
-🧠 _This GitHub profile README is designed with future UI/UX improvements in mind including toggles, icons, and enhanced styling. Stay tuned for portfolio updates!_
+🧠 _ Stay tuned for portfolio updates!_
 
