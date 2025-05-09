@@ -62,14 +62,6 @@ Vectorux Technolabs | Kannur
 
 ---
 
-### 🎨 Customize
-
-- 🌗 Dark/Light Mode Toggle *(coming soon with portfolio site UI)*
-- 🎨 Personal color scheme and fonts added via Tailwind CSS on portfolio website
-- ⚙️ Icons and sections personalized with [React Icons](https://react-icons.github.io/react-icons/)
-
----
-
 ### 🗣️ Languages
 
 - English – Fluent  
